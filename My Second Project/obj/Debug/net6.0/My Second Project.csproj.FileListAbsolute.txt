@@ -1,0 +1,15 @@
+E:\Projects\beetroot\My Second Project\My Second Project\bin\Debug\net6.0\My Second Project.exe
+E:\Projects\beetroot\My Second Project\My Second Project\bin\Debug\net6.0\My Second Project.deps.json
+E:\Projects\beetroot\My Second Project\My Second Project\bin\Debug\net6.0\My Second Project.runtimeconfig.json
+E:\Projects\beetroot\My Second Project\My Second Project\bin\Debug\net6.0\My Second Project.dll
+E:\Projects\beetroot\My Second Project\My Second Project\bin\Debug\net6.0\My Second Project.pdb
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.csproj.AssemblyReference.cache
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.AssemblyInfoInputs.cache
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.AssemblyInfo.cs
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.csproj.CoreCompileInputs.cache
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.dll
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\refint\My Second Project.dll
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.pdb
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\My Second Project.genruntimeconfig.cache
+E:\Projects\beetroot\My Second Project\My Second Project\obj\Debug\net6.0\ref\My Second Project.dll
